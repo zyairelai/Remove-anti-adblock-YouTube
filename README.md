@@ -1,18 +1,7 @@
-![Remove blocker](https://i9.ytimg.com/vi_webp/DufgQ5I_emU/mqdefault.webp?v=6532ec84&sqp=CIi706kG&rs=AOn4CLC-lKKkLBr2m4Sk8sQO7N0YomCFUQ "Remove blocker")
-
-# Remove-anti-adblock-YouTube
-
-YouTube released an update where they will automatically open a warning pop-up if you are using an adblocker. 
-This snipper closes the anti-adblock popup and resume the video.
-It saves you the hassle of clicking and it works every time.
-
-We don't want to pay a Premium subscription because even if we do we will still see sponsored contents inside the videos.
-We value our time and YT doesn't compensate the content creators sufficiently for their work and contribution.
-We want to support our favorite creators and also the industry but in a fair way. 
-Thank you.
+# Forked Repo 
+By [Axel Andaroth](https://anda.ninja/)
 
 ## Installation
-1. Please replace the "includes" string (`!!d.innerHTML.toLowerCase().includes("bloqueur de publicité")`) in the code to match your language,
-2. You need a plugin installed in your browser to run this script on youtube.com opening. This script uses [Tampermonkey](https://www.tampermonkey.net/).
-
-By [Axel Andaroth](https://anda.ninja/).
+1. Install [TamperMonkey Chrome Extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+2. Go to TamperMonkey Extension > `Create a new sccript`
+3. Copy & paste the code [here](https://raw.githubusercontent.com/zyairelai/Remove-anti-adblock-YouTube/master/tampermonkey.js) and kill the anti ads block element

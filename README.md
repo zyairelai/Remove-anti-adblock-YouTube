@@ -1,5 +1,5 @@
-# Forked Repo 
-By [Axel Andaroth](https://anda.ninja/)
+# Remove Anti Adblock YouTube
+Kill the JavaScript function by YouTube of spying our Chrome Extension
 
 ## Installation
 1. Install [TamperMonkey Chrome Extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
@@ -9,3 +9,7 @@ By [Axel Andaroth](https://anda.ninja/)
 
 ## Words to myself
 Dear Zy please learn JavaScript 
+
+## Forked Repo 
+![image](https://github.com/zyairelai/Remove-anti-adblock-YouTube/assets/49854907/de2b0238-e7c7-43b9-8b19-24552dfd09f7)
+By [Axel Andaroth](https://anda.ninja/)
